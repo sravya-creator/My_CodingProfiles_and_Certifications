@@ -5,13 +5,13 @@ Coding Profiles
 
 **HackerRank**: https://www.hackerrank.com/sravya_05?hr_r=1
 
-**InterviewBit**: https://www.interviewbit.com/profile/lasyanallamalli27_7df7e2cf303a
+**InterviewBit**: https://www.interviewbit.com/profile/sai-sravya_241
 
-**CodeChef**: https://www.codechef.com/users/lasya_n27
+**CodeChef**: https://www.codechef.com/users/sravya_0502
 
-**Codeforces**: https://codeforces.com/profile/lasya_n
+**Codeforces**: https://codeforces.com/profile/sravya_0502
 
-**LeetCode**: https://leetcode.com/lasya_n/
+**LeetCode**: https://leetcode.com/sravya_05/
 
 **SPOJ**: https://www.spoj.com/myaccount/
 
