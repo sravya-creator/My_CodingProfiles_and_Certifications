@@ -13,7 +13,7 @@ Coding Profiles
 
 **LeetCode**: https://leetcode.com/sravya_05/
 
-**SPOJ**: https://www.spoj.com/myaccount/
+**SPOJ Username**: sravya_0502
 
 **ProjectEuler username**: ksrv05
 
