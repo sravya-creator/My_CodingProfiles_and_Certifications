@@ -38,3 +38,9 @@ Certifications
 **Build Your Portfolio Website with HTML and CSS**: https://coursera.org/share/75827bb1b2af4ada5430721bb274890c
 
 **PCAP - Programming Essentials In Python**: https://drive.google.com/file/d/15pvqBBS61m5pJ5yGIcmG2rKJWcx3b4wD/view?usp=sharing
+
+
+Certifications
+--------------
+
+**Student Mentor at Smart Interviews**: https://drive.google.com/file/d/1RjEDR_0ShhXB6-rP1Tq6G5XQIIfhYjmA/view?usp=drive_link
